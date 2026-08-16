@@ -80,7 +80,7 @@ Key Takeaways
 
 | Category            | Writeups |
 | ------------------- | -------: |
-| Web Exploitation    |        0 |
+| Web Exploitation    |        3 |
 | Forensics           |        0 |
 | Cryptography        |        0 |
 | Reverse Engineering |        0 |
